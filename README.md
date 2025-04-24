@@ -46,7 +46,7 @@ Commit your changes with appropriate messages
 Push your branch to your fork
 Create a pull request to the main repository
 
-Member 3: Data Management
+Member 3: Data Management Geofery Kamunge
 
 Fork the repository to your GitHub account
 Clone your fork to your local machine
