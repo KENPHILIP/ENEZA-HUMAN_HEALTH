@@ -1,0 +1,9 @@
+# Types of Fruits
+
+ # Fruits
+ - Apple
+ - Banana
+ - Chery
+ - Grape
+ - Peach
+ - Mango
