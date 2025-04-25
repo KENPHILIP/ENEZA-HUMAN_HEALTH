@@ -1,0 +1,10 @@
+# Types of Fruits
+
+ # Fruits
+ -Apple
+ -Banana
+ -Chery
+ -Orange
+ -PawPaw
+ -Pineapple
+
