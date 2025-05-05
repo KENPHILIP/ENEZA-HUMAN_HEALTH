@@ -14,7 +14,7 @@ top_memory_processes.txt - Memory usage statistics
 unique_data.txt - Unique data identifiers
 
 Team Tasks
-Member 1: Backup System
+Member 1: Backup System - Maks
 
 Fork the repository to your GitHub account
 Clone your fork to your local machine
